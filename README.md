@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 6th semester B.Tech student passionate about Computer Science fundamentals, especially Operating Systems, Information Security, and Machine Learning. I enjoy building practical projects, including a Fake News Detection system using Logistic Regression and deploying APIs with FastAPI. I continuously strengthen my problem-solving skills through mathematics and Boolean algebra. I am driven to bridge academic knowledge with real-world applications through hands-on development and experimentation.
+I am a 7th semester B.Tech student passionate about Computer Science fundamentals, especially Operating Systems, Information Security, and Machine Learning. I enjoy building practical projects, including a Fake News Detection system using Logistic Regression and deploying APIs with FastAPI. I continuously strengthen my problem-solving skills through mathematics and Boolean algebra. I am driven to bridge academic knowledge with real-world applications through hands-on development and experimentation.
 
 
 ## 🌐 Socials:
